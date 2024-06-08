@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "ce281eef-1bfc-45ff-bbfe-6bc4bb08aef5",
+		"name": "Fitness App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26647325",
+		"_collection_link": "https://orange-eclipse-50199.postman.co/workspace/Team-Workspace~da26b3ae-961e-4d06-8987-c721c65170e2/collection/26647325-ce281eef-1bfc-45ff-bbfe-6bc4bb08aef5?action=share&source=collection_link&creator=26647325"
+	},
+	"item": [
+		{
+			"name": "Fitness App API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://raw.githubusercontent.com/codeifitech/fitness-app/master/exercises.json?fbclid=IwAR134H8MVHG0m76RaH-98O3PDeQoSc5rGTNsTailMCd6JVj1NOx9hHVMNPM",
+					"protocol": "https",
+					"host": [
+						"raw",
+						"githubusercontent",
+						"com"
+					],
+					"path": [
+						"codeifitech",
+						"fitness-app",
+						"master",
+						"exercises.json"
+					],
+					"query": [
+						{
+							"key": "fbclid",
+							"value": "IwAR134H8MVHG0m76RaH-98O3PDeQoSc5rGTNsTailMCd6JVj1NOx9hHVMNPM"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
